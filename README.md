@@ -1,4 +1,4 @@
-<h1 align="center"> Challenge Conversor de Monedas </h1>
+<h1 align="center"> :euro: Challenge Conversor de Monedas :dollar: </h1>
 
 
 Este es el primer challenge de la especialización Back-End con Java 17 de Alura Latam y Oracle Next Education. El proyecto consiste en un conversor de monedas que utiliza una API externa para obtener las tasas de cambio actualizadas.
@@ -8,10 +8,9 @@ Este es el primer challenge de la especialización Back-End con Java 17 de Alura
 
 - [Descripción](#descripción)
 - [Instalación](#instalación)
+- [Características de la aplicación](#características-de-la-aplicación)
 - [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
 
 ## Descripción
 
@@ -32,11 +31,11 @@ El conversor de monedas es una aplicación desarrollada en Java que permite conv
 3. Importa el proyecto en tu IDE favorito (por ejemplo, IntelliJ IDEA, Eclipse).
 
 4. Asegúrate de tener Java 17 instalado en tu sistema.
+   
+5. También tener una biblioteca para manipularla los archivos JSON, como lo seria en este caso que se usó GSON 
 
-# :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
-Resultado:
+## Características de la aplicación
 
 ## Uso
 
@@ -46,4 +45,4 @@ Resultado:
 
 3. Ingresa la cantidad a convertir y obtén el resultado de la conversión.
 
-
+## Tecnologías utilizadas
