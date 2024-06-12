@@ -1,4 +1,4 @@
-# Challenge Conversor de Monedas
+<em> # Challenge Conversor de Monedas </em>
 
 Este es el primer challenge de la especialización Back-End con Java 17 de Alura Latam y Oracle Next Education. El proyecto consiste en un conversor de monedas que utiliza una API externa para obtener las tasas de cambio actualizadas.
 
@@ -7,7 +7,6 @@ Este es el primer challenge de la especialización Back-End con Java 17 de Alura
 - [Descripción](#descripción)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
